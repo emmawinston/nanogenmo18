@@ -1,0 +1,29 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Baskerville", "Georgia", helvetica, arial, sans-serif;
+  margin: 2em;
+  font-size: 1.3em;
+  background-color: #fffaf0;
+}
+
+h1, h2 {
+  font-style: italic;
+  color: #000000;
+  text-align: center;
+}
+
+h3 a {
+  display: block;
+ text-align: right;
+}
+
+#trace {
+  float: left;
+font-size: 1.2em;
+margin: 0.5em;}
+
+#output {
+  max-width: 800px;
+  margin: 0 auto;
+}
