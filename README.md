@@ -1,7 +1,7 @@
 NaNoGenMo 2018
 =================
 
-https://nanogenmo18.glitch.me/
+https://tinyplaces.glitch.me/
 
 Boring Tales From Tiny Places
 --------------------------------
