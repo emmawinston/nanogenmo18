@@ -13,9 +13,13 @@ h1, h2 {
   text-align: center;
 }
 
-h3 a {
+h3 {
   display: block;
- text-align: right;
+  text-align: center; }
+
+h3 a {
+ 
+ 
 }
 
 #trace {
