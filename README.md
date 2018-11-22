@@ -1,37 +1,24 @@
-Welcome to Glitch
+NaNoGenMo 2018
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+https://tinyplaces.glitch.me/
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Boring Tales From Tiny Places
+--------------------------------
 
-Find out more [about Glitch](https://glitch.com/about).
+This is really an attempt to teach myself:
 
+1) a bit more Javascript than the pitiful amount I already know
+2) How the RiTa text library works. 
 
-Your Project
-------------
+The basic structure:
 
-### ← README.md
+* I generate a Tiny Scenario(TM) using Tracery, as per my various Twitter bots. 
+* I identify the emoji characters in them. 
+* I set up some kind of templated exposition for the 'story'.
+* I attribute some emotions and actions to the characters. 
+* I have the characters ramble at each other with Markov chains, using a genre-appropriate text source.
+* Punchline. 
+* Fin. 
 
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+I make some apologies for the extremely poor quality of my code, but not too many. Learning!
