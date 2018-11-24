@@ -22,6 +22,12 @@ $(document).ready(function() {
 
     }; */
 
+function fin() {
+  $("#end").append(end);
+}
+  
+var end = "<h2>THE END</h2>" + "<h3><a href='/index.html'>< prev </a>&nbsp;&nbsp;<a href='/gallery.html'> next ></a></h3>";
+  
 var foresttemplate = tracery.createGrammar(
    {
 	"origin":["#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#<br/>#forest#"],
@@ -467,6 +473,7 @@ for (i = characters.length - 1; i < characters.length; i++) {
   charSpeech();
   ending();
  characters.push(characters.shift());  // moves first character to end of array so we can start over
+  fin()
 }
   
 });
