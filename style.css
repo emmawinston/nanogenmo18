@@ -25,7 +25,7 @@ h3 a {
 #trace {
   float: left;
 font-size: 1.2em;
-margin: 0.5em;}
+margin: 1em 1.5em;}
 
 #output {
   max-width: 800px;
