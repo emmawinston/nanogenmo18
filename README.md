@@ -44,5 +44,5 @@ All texts are sourced from Project Gutenberg.
 
 ### Chapter 3
 
-* [Willard W. Glazier: Peculiarities of American Cities (1886)](http://www.gutenberg.org/ebooks/35575)
+* [Willard W. Glazier: Peculiarities of American Cities (1886)](http://www.gutenberg.org/ebooks/35575).
  
