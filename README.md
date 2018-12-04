@@ -14,7 +14,7 @@ This is really an attempt to teach myself:
 
 The basic structure:
 
-* I generate a Tiny Scenario(TM) using Tracery, as per my various Twitter bots. 
+* I generate a Tiny Scenario(TM) using Tracery, as per my various [Twitter bots](http://deerful.space). 
 * I identify the emoji characters in them. 
 * I set up some kind of templated exposition for the 'story'.
 * I attribute some emotions and actions to the characters. 
