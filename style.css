@@ -40,3 +40,21 @@ margin: 1em 1.5em;}
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+@media screen and (max-width: 990px) { 
+  #trace { 
+    float: none; 
+    margin: 1em auto;
+    text-align: center;
+  } 
+  body {
+    margin: 1em;
+  }
+  
+  .vertical-center {
+    ms-transform: translateY(-0%);
+    transform: translateY(-0%);
+    position: relative;
+    padding-top: 2em;
+  }
+} /* On screens that are 600px or less, set the background color to olive */
