@@ -3,7 +3,11 @@ NaNoGenMo 2018
 
 Output: https://tinyplaces.glitch.me/
 
-Source: https://github.com/NaNoGenMo/2018/issues/85
+About: https://github.com/NaNoGenMo/2018/issues/85
+
+Source: https://github.com/emmawinston/nanogenmo18
+
+PDF: https://emmawinston.me/assets/docs/boringtalesfromtinyplaces.pdf
 
 Boring Tales From Tiny Places
 --------------------------------
