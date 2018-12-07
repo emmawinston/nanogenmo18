@@ -435,18 +435,6 @@ function verbedAdverb() {
  return `${RiTa.conjugate(RiTa.randomWord('vb'), pastTense)} ` + `${RiTa.randomWord('rb')}`;
 }
   
-/* var ending = [
-      " 'I just like the colours,' " + " said, " + `${RiTa.randomWord('rb')}` + ". ",
-      " 'I just thought it was nice,' " + " said, " + `${RiTa.randomWord('rb')}` + ". ",
-      " 'Actually, I hate art,' " + " said, " + `${RiTa.randomWord('rb')}` + ". "
-      ]; 
-  
-var rollEnd = ending[Math.floor(Math.random()*ending.length)]; 
-  
-  function punchline() {
-  $('div#output').append(rollEnd);
-  } */
-  
 // WHAT GOES ON THE PAGE
   
 // exposition
@@ -461,15 +449,6 @@ for (i = 0; i < buildings.length-1; i++) {
   buildingsDesc();
   buildings.push(buildings.shift());  // moves first character to end of array so we can start over 
 }
-  
-/* for (i = buildings.length - 1; i < buildings.length; i++) { 
-  charAction();
-  charDesc();
-  charSpeech();
-  console.log(dayNight);
-  punchline();
-  characters.push(characters.shift()); 
-} */
 
   fin();
   
